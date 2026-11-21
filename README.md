@@ -22,10 +22,10 @@ Online Retail II, UCI Machine Learning Repository: https://archive.ics.uci.edu/d
 - Highest leakage month (excluding partial December 2011): [your month from the SQL query]
 
 ## Dashboard
-![Executive Summary](Retail-Executive_summary.png)
-![Customer Segments](Retail-Customer_segments.png)
-![Cohort Retention](Retail-Cohort_retension_.png)
-![Risk Watchlist](Retail-Risk_watchlist.png)
+![Executive Summary](Retail-Analytics_Executive-Summary.png)
+![Customer Segments](Retail-Analytics_Customer-segments.png)
+![Cohort Retention](Retail-Analytics_Cohort-RetenTion_.png)
+![Risk Watchlist](Retail-Analytics_Risk-watchlist.png)
 
 ## Files
 - `retail_analytics_full.sql`: all SQL queries
